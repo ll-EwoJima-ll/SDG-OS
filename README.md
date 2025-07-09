@@ -5,7 +5,7 @@ And Hope For The Best? Well With SDG-OS, All You Have To Do Is Exit To The Confi
 A Secure Area In The OS, That Makes Rebuilding What You Had, Easy. Your Operating System Is Kept Safe By Being Encrypted With AES-265 Quantum Resistant Deniable Encryption, Which Makes It Impossible For Any Snooping Hacker To
 Escape To Your Other VM(s).
 
-Qubes OS Is More Than Just An Operating System. It Allows You To Run Everything Through A VPN That Keeps All Of Your Traffic On RAM, Doesn't Store Any Of Your Info Except Your Login Token, Only Allows
+SDG-OS Is More Than Just An Operating System. It Allows You To Run Everything Through A VPN That Keeps All Of Your Traffic On RAM, Doesn't Store Any Of Your Info Except Your Login Token, Only Allows
 You To Purchase With Crypto, Is Cheap, And Uses Quantum Resistan Encryption. When LE Comes Knocking For Your Info, They Won't Ger Any, Because We Won't Have Any. It Also Gives You The Tools Needed To
 Have Secure Communications Without Having To Worry About Any Bastards Watching You. You Can Also Use Quantum Resistant Deniable Encryption To Protect Your Secret Hentai Collection (weirdo) From Your
 Wife. Now What Shall One Do If He Is Hacked?
