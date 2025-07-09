@@ -1,0 +1,1 @@
+;; This Makes Linux .desktop Programs Runnable On SDG OS
