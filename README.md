@@ -1,4 +1,5 @@
 // About The OS:
+
 SDG-OS (Super Duper Good Operating System) Is Made To Keep Your Private Things Private. Let's Say That You're On Your Normal Boring Operating System, And You Get Hacked. What Do You Do? Run Your AV,
 And Hope For The Best? Well With SDG-OS, All You Have To Do Is Exit To The Configeration Screen, And Delete The VM. You Don't Have To Worry About Losing Your Important Data, Because It'll Be Saved In
 A Secure Area In The OS, That Makes Rebuilding What You Had, Easy. Your Operating System Is Kept Safe By Being Encrypted With AES-265 Quantum Resistant Deniable Encryption, Which Makes It Impossible For Any Snooping Hacker To
